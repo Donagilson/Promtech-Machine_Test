@@ -1,0 +1,6 @@
+@Promtech_Machine_Test_HostAddress = http://localhost:5030
+
+GET {{Promtech_Machine_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
